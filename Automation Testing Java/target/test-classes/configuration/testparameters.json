@@ -1,0 +1,6 @@
+{
+	"browser" : "chrome",
+	"baseurl" : " http://sampleapp.tricentis.com/101/app.php",
+	"timeout" : "60",
+	"screenshot" : "all"
+}
